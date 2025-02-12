@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.a1.app-mergeDebugResources-49:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/home/kssm/.gradle/caches/8.10.2/transforms/a99dd883db1edd7ce5a40113a943dbf0/transformed/core-splashscreen-1.0.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "85",
+                        "endOffsets": "136"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -2,6 +2,8 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
     alias(libs.plugins.kotlin.compose)
+
+
 }
 
 android {
@@ -40,7 +42,13 @@ android {
 }
 
 dependencies {
+    implementation("androidx.compose.runtime:runtime-livedata:1.6.0")
 
+    implementation(libs.androidx.core.splashscreen)
+    implementation(libs.lifecycle.viewmodel.compose)
+    implementation(libs.retrofit)
+    implementation(libs.gson)
+    implementation(libs.converter.gson)
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.a1.app-mergeDebugResources-49:/values-v27/values-v27.xml",
+            "map": [
+                {
+                    "source": "/home/kssm/.gradle/caches/8.10.2/transforms/a99dd883db1edd7ce5a40113a943dbf0/transformed/core-splashscreen-1.0.1/res/values-v27/values-v27.xml",
+                    "from": {
+                        "startLines": "2,3,4,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,136,229,405",
+                        "endLines": "2,3,6,9",
+                        "endColumns": "80,92,12,12",
+                        "endOffsets": "131,224,400,588"
+                    }
+                }
+            ]
+        }
+    ]
+}
