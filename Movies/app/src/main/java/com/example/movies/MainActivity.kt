@@ -12,3 +12,4 @@ class MainActivity : ComponentActivity() {
         setContent {}
     }
 }
+//https://github.com/ahmed-guedmioui/Movies-App-Tutorial/blob/part-1/app/src/main/java/com/ahmedapps/moviesapp/movieList/data/mappers/MovieMapper.kt
