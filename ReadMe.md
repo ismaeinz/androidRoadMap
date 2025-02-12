@@ -5,6 +5,7 @@
 هعمل مشروع بسيط كل يوم اشرح فيه الاساسيات 
 وهتعلم حاجه جديده 
 ومشروع ثابت هذاكره من اليوتيوب 
+
 ui =>compose && xml
 state =>viewModel->LiveData&&Flow
 HandleApi=>retroFit
