@@ -7,16 +7,22 @@
 ومشروع ثابت هذاكره من اليوتيوب 
 
 ui =>compose && xml
+
 state =>viewModel->LiveData&&Flow
+
 HandleApi=>retroFit
+
 Storage=>
 Shared Preferences
 DataStore
 Room Database
 File System
-Di
+
+Di=>hilt 
+
 CleanArch => { mvvm && mvi}
-<!--  -->
+
+
 Broadcast
 Services
 contentProvider
