@@ -13,3 +13,4 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+//https://api.openweathermap.org/data/2.5/weather?q=cairo&appid=0eb27a1190f1a44ec53007efcf59e8b6
